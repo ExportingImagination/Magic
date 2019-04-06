@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Sphere spinn",
+"companyName": "Pro",
+"productName": "Joe",
 "dataUrl": "builds.data.unityweb",
 "wasmCodeUrl": "builds.wasm.code.unityweb",
 "wasmFrameworkUrl": "builds.wasm.framework.unityweb",
